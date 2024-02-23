@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Curabitur
+title: Suspendisse
 ---
 
 <img src="/images/fulls/01.jpg" class="fit image"> 
