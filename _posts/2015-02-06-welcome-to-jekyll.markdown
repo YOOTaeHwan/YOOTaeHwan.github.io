@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Curabitur
 ---
 
 <img src="/images/fulls/01.jpg" class="fit image"> 
