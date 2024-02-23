@@ -1,5 +1,8 @@
 ---
 layout: post
+title: 55 Sed
+date: 2024-02-02T14:37:44.000Z
+categories: update
 ---
 <img src="/images/fulls/05.jpg" class="fit image"> 
 55 Sed lobortis urna ut mi volutpat, sit amet euismod sapien tincidunt. Nulla facilisi. Pellentesque quis tempus neque. Mauris dictum ac sapien nec congue. In hac habitasse platea dictumst. Duis id pellentesque nisl. Morbi eget massa magna.
